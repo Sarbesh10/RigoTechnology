@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RigoTechnology
+comment0.text=\r\n\ Creating\ class\ named\ RigoTechnology\ and\ adding\ ActionListener\ implementation\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ deloperGUI()
+comment2.text=\r\n\ this\ method\ is\ to\ develop\ a\ complete\ GUI\r\n
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ *this\ method\ is\ a\ nonreturn\ type\ method\ that\ brings\ buttons\ in\ action\r\n\r\n
+numComments=4
